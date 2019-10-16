@@ -1,0 +1,7 @@
+T:\Libraries\Programming\source\QnDRenamer\QnDRenamer\bin\Debug\QnDRenamer.exe.config
+T:\Libraries\Programming\source\QnDRenamer\QnDRenamer\bin\Debug\QnDRenamer.exe
+T:\Libraries\Programming\source\QnDRenamer\QnDRenamer\bin\Debug\QnDRenamer.pdb
+T:\Libraries\Programming\source\QnDRenamer\QnDRenamer\obj\Debug\QnDRenamer.csprojAssemblyReference.cache
+T:\Libraries\Programming\source\QnDRenamer\QnDRenamer\obj\Debug\QnDRenamer.csproj.CoreCompileInputs.cache
+T:\Libraries\Programming\source\QnDRenamer\QnDRenamer\obj\Debug\QnDRenamer.exe
+T:\Libraries\Programming\source\QnDRenamer\QnDRenamer\obj\Debug\QnDRenamer.pdb

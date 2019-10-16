@@ -1,0 +1,7 @@
+C:\Users\Drachen\source\repos\PizzaTime\PizzaTime\bin\Debug\PizzaTime.exe.config
+C:\Users\Drachen\source\repos\PizzaTime\PizzaTime\bin\Debug\PizzaTime.exe
+C:\Users\Drachen\source\repos\PizzaTime\PizzaTime\bin\Debug\PizzaTime.pdb
+C:\Users\Drachen\source\repos\PizzaTime\PizzaTime\obj\Debug\PizzaTime.csprojAssemblyReference.cache
+C:\Users\Drachen\source\repos\PizzaTime\PizzaTime\obj\Debug\PizzaTime.csproj.CoreCompileInputs.cache
+C:\Users\Drachen\source\repos\PizzaTime\PizzaTime\obj\Debug\PizzaTime.exe
+C:\Users\Drachen\source\repos\PizzaTime\PizzaTime\obj\Debug\PizzaTime.pdb

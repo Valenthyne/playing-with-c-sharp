@@ -1,0 +1,7 @@
+C:\Users\Drachen\source\repos\StupidQuiz\StupidQuiz\bin\Debug\StupidQuiz.exe.config
+C:\Users\Drachen\source\repos\StupidQuiz\StupidQuiz\bin\Debug\StupidQuiz.exe
+C:\Users\Drachen\source\repos\StupidQuiz\StupidQuiz\bin\Debug\StupidQuiz.pdb
+C:\Users\Drachen\source\repos\StupidQuiz\StupidQuiz\obj\Debug\StupidQuiz.csprojAssemblyReference.cache
+C:\Users\Drachen\source\repos\StupidQuiz\StupidQuiz\obj\Debug\StupidQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Drachen\source\repos\StupidQuiz\StupidQuiz\obj\Debug\StupidQuiz.exe
+C:\Users\Drachen\source\repos\StupidQuiz\StupidQuiz\obj\Debug\StupidQuiz.pdb

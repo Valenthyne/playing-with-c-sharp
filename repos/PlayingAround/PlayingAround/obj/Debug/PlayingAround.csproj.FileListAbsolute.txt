@@ -1,0 +1,14 @@
+C:\Users\Drachen\source\repos\PlayingAround\PlayingAround\bin\Debug\PlayingAround.exe.config
+C:\Users\Drachen\source\repos\PlayingAround\PlayingAround\bin\Debug\PlayingAround.exe
+C:\Users\Drachen\source\repos\PlayingAround\PlayingAround\bin\Debug\PlayingAround.pdb
+C:\Users\Drachen\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.csprojAssemblyReference.cache
+C:\Users\Drachen\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.csproj.CoreCompileInputs.cache
+C:\Users\Drachen\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.exe
+C:\Users\Drachen\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.pdb
+T:\Libraries\Programming\source\repos\PlayingAround\PlayingAround\bin\Debug\PlayingAround.exe.config
+T:\Libraries\Programming\source\repos\PlayingAround\PlayingAround\bin\Debug\PlayingAround.exe
+T:\Libraries\Programming\source\repos\PlayingAround\PlayingAround\bin\Debug\PlayingAround.pdb
+T:\Libraries\Programming\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.csprojAssemblyReference.cache
+T:\Libraries\Programming\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.csproj.CoreCompileInputs.cache
+T:\Libraries\Programming\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.exe
+T:\Libraries\Programming\source\repos\PlayingAround\PlayingAround\obj\Debug\PlayingAround.pdb

@@ -1,0 +1,7 @@
+C:\Users\Drachen\source\repos\WoWage\WoWage\bin\Debug\WoWage.exe.config
+C:\Users\Drachen\source\repos\WoWage\WoWage\bin\Debug\WoWage.exe
+C:\Users\Drachen\source\repos\WoWage\WoWage\bin\Debug\WoWage.pdb
+C:\Users\Drachen\source\repos\WoWage\WoWage\obj\Debug\WoWage.csprojAssemblyReference.cache
+C:\Users\Drachen\source\repos\WoWage\WoWage\obj\Debug\WoWage.csproj.CoreCompileInputs.cache
+C:\Users\Drachen\source\repos\WoWage\WoWage\obj\Debug\WoWage.exe
+C:\Users\Drachen\source\repos\WoWage\WoWage\obj\Debug\WoWage.pdb

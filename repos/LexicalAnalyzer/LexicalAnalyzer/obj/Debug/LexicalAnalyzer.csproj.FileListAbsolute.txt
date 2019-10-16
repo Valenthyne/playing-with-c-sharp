@@ -1,0 +1,7 @@
+C:\Users\Drachen\source\repos\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Drachen\source\repos\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Drachen\source\repos\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Drachen\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojAssemblyReference.cache
+C:\Users\Drachen\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Drachen\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+C:\Users\Drachen\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb

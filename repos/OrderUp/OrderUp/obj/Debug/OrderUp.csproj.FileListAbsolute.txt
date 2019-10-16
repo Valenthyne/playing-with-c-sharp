@@ -1,0 +1,6 @@
+C:\Users\Drachen\source\repos\OrderUp\OrderUp\bin\Debug\OrderUp.exe.config
+C:\Users\Drachen\source\repos\OrderUp\OrderUp\bin\Debug\OrderUp.exe
+C:\Users\Drachen\source\repos\OrderUp\OrderUp\bin\Debug\OrderUp.pdb
+C:\Users\Drachen\source\repos\OrderUp\OrderUp\obj\Debug\OrderUp.csproj.CoreCompileInputs.cache
+C:\Users\Drachen\source\repos\OrderUp\OrderUp\obj\Debug\OrderUp.exe
+C:\Users\Drachen\source\repos\OrderUp\OrderUp\obj\Debug\OrderUp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Drachen\source\repos\CharacterPuller\CharacterPuller\bin\Debug\CharacterPuller.exe.config
+C:\Users\Drachen\source\repos\CharacterPuller\CharacterPuller\bin\Debug\CharacterPuller.exe
+C:\Users\Drachen\source\repos\CharacterPuller\CharacterPuller\bin\Debug\CharacterPuller.pdb
+C:\Users\Drachen\source\repos\CharacterPuller\CharacterPuller\obj\Debug\CharacterPuller.csprojAssemblyReference.cache
+C:\Users\Drachen\source\repos\CharacterPuller\CharacterPuller\obj\Debug\CharacterPuller.csproj.CoreCompileInputs.cache
+C:\Users\Drachen\source\repos\CharacterPuller\CharacterPuller\obj\Debug\CharacterPuller.exe
+C:\Users\Drachen\source\repos\CharacterPuller\CharacterPuller\obj\Debug\CharacterPuller.pdb

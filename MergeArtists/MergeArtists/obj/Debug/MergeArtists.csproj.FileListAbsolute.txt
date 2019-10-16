@@ -1,0 +1,7 @@
+T:\Libraries\Programming\source\MergeArtists\MergeArtists\bin\Debug\MergeArtists.exe.config
+T:\Libraries\Programming\source\MergeArtists\MergeArtists\bin\Debug\MergeArtists.exe
+T:\Libraries\Programming\source\MergeArtists\MergeArtists\bin\Debug\MergeArtists.pdb
+T:\Libraries\Programming\source\MergeArtists\MergeArtists\obj\Debug\MergeArtists.csprojAssemblyReference.cache
+T:\Libraries\Programming\source\MergeArtists\MergeArtists\obj\Debug\MergeArtists.csproj.CoreCompileInputs.cache
+T:\Libraries\Programming\source\MergeArtists\MergeArtists\obj\Debug\MergeArtists.exe
+T:\Libraries\Programming\source\MergeArtists\MergeArtists\obj\Debug\MergeArtists.pdb

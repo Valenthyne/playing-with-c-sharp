@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidQuiz", "StupidQuiz\StupidQuiz.csproj", "{C74AF75A-9896-45C6-8681-6291E3B74B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74AF75A-9896-45C6-8681-6291E3B74B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74AF75A-9896-45C6-8681-6291E3B74B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74AF75A-9896-45C6-8681-6291E3B74B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74AF75A-9896-45C6-8681-6291E3B74B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F21F449-6CA3-40C9-9504-E12E54EFD74F}
+	EndGlobalSection
+EndGlobal

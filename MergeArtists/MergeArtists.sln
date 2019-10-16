@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeArtists", "MergeArtists\MergeArtists.csproj", "{D9695275-E1F0-42D5-89E7-326E669BDA24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9695275-E1F0-42D5-89E7-326E669BDA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9695275-E1F0-42D5-89E7-326E669BDA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9695275-E1F0-42D5-89E7-326E669BDA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9695275-E1F0-42D5-89E7-326E669BDA24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEB1477-A12C-4908-91D9-0EFA0EE65F8E}
+	EndGlobalSection
+EndGlobal
