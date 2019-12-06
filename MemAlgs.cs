@@ -5,31 +5,39 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Console.WriteLine("Hello World!");
 
-		int[] test = { 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1 };
-		Console.WriteLine("Page Faults OP: " + OptimalPage(test, 3));
-		Console.WriteLine("Page Faults LRU: " + LeastRecentlyUsed(test, 3));
+		// int[] testRefStr = {7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1};
+		// Console.WriteLine("Page Faults w/ Optimal Page: " + OptimalPage(testRefStr, 3));
+		//	Result should be: 9 page faults
+		// Console.WriteLine("Page Faults w/ LRU: " + LeastRecentlyUsed(testRefStr, 3));
+		//	Result should be: 12 page faults
 
+		// Generating five random page-reference strings
 		int[] arr1 = new int[20];
 		int[] arr2 = new int[20];
 		int[] arr3 = new int[20];
 		int[] arr4 = new int[20];
 		int[] arr5 = new int[20];
 
+		// Initializing frame counter
 		int frames = 1;
 
+		// Generating two-dimensional array to store all previous arrays
 		int[][] arrays = new int[][] {arr1, arr2, arr3, arr4, arr5};
 
+		// Initializing each array with values ranging from 0 to 20
 		for (int i = 0; i < 5; i++)
 		{
-			InitArray(arrays[i], 20);
+			InitArray(arrays[i], 20, 0, 21);
 		}
 
+		// Generating test cases for frame counts between 1 and 7
 		for (; frames <= 7; frames++)
 		{
 			int pageFaultOP = 0;
 			int pageFaultLRU = 0;
+
+			// Run the two page replacement algorithms on each of the arrays
 			for (int i = 0; i < 5; i++) 
 			{ 
 				pageFaultOP += OptimalPage(arrays[i], frames);
@@ -42,63 +50,52 @@ class Program
 			Console.WriteLine("");
 		}
 
-		// End Part 1
-
-
-		// Begin Part 2
-
+		// Reset frame counter
 		frames = 1;
 
+		// Generate single reference string length 500,000, each value ranging from 0 to 20
 		int[] arr = new int[500000];
-		InitArray(arr, 500000);
+		InitArray(arr, 500000, 0, 21);
 
-
+		// Generating test cases for frame counts between 1 and 10
 		for (; frames <= 10; frames++)
 		{
-
-
+			// Establish stopwatch variable to record time spent in first algorithm
 			var w1 = System.Diagnostics.Stopwatch.StartNew();
 			OptimalPage(arr, frames);
 			w1.Stop();
 
+			// Store the elapsed milliseconds for first algorithm
 			long runtimeOP = w1.ElapsedMilliseconds;
 
+			// Establish stopwatch variable to record time spent in second algorithm
 			var w2 = System.Diagnostics.Stopwatch.StartNew();
 			LeastRecentlyUsed(arr, frames);
 			w2.Stop();
 
+			// Store the elapsed milliseconds for second algorithm
 			long runtimeLRU = w2.ElapsedMilliseconds;
 
 			Console.WriteLine("Running time for " + frames + " frames: ");
 			Console.WriteLine("Using Optimal Page: " + runtimeOP + " milliseconds");
 			Console.WriteLine("Using LRU: " + runtimeLRU + " milliseconds");
 			Console.WriteLine("");
-
-
 		}
 
 	}
 
-	static void InitArray(int[] array, int values)
+	// Initialize array based on random values
+	static void InitArray(int[] array, int values, int l, int r)
 	{
 		Random random = new Random();
 
 		for (int i = 0; i < values; i++)
 		{
-			array[i] = random.Next(0, 21);
+			array[i] = random.Next(l, r);
 		}
 	}
 
-	static void PrintArray(int[] array)
-	{
-		int length = array.Length;
-		for (int i = 0; i < length; i++)
-		{
-			Console.Write(array[i] + " ");
-		}
-		Console.WriteLine("\n");
-	}
-
+	// Method containing the optimal page replacement algorithm
 	static int OptimalPage(int[] refStr, int frames)
 	{
 		int totalPageFault = 0;
@@ -166,6 +163,7 @@ class Program
 		return totalPageFault;
 	}
 
+	// Method containing the least recently used page replacement algorithm
 	static int LeastRecentlyUsed(int[] refStr, int frames)
 	{
 		int totalPageFault = 0;
@@ -255,6 +253,7 @@ class Program
 		return totalPageFault;
 	}
 
+	// Method used to see if there exists empty space in the memory block
 	static int IsEmptySpace(int[] array)
 	{
 		for (int i = 0; i < array.Length; i++)
